@@ -430,7 +430,6 @@ function learningStyle (learnArray){
 
 
 
-
 /* -----------------------------*/
 survey
     .onComplete
