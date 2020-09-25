@@ -408,13 +408,13 @@ function learningStyle (learnArray){
 
         // This displays the type of learning style 
         if (index == 0 ){
-                answer = "<br><b> The Assessment determined you have a primary: Creative Learning Style</b>";
+                answer = "<b>Creative Learning Style</b>";
         } else if (index == 1 ) {
-                answer = "<br><b> The Assessment determined you have a primary: Step Learning Style</b>";
+                answer = "<b>Step Learning Style</b>";
         } else if (index == 2) {
-                answer = "<br><b> The Assessment determined you have a primary: Talk Learning Style</b>";
+                answer = "<b>Talk Learning Style</b>";
         } else if (index == 3 ) {
-                answer = "<br><b> The Assessment determined you have a primary: Research Learning Style</b>";
+                answer = "<b>Research Learning Style</b>";
         } else {
             document.write("NONE");
         }
