@@ -408,13 +408,13 @@ function learningStyle (learnArray){
 
         // This displays the type of learning style 
         if (index == 0 ){
-                answer = "<h3>Creative Learning Style</h3>";
+                answer = "<b>Creative Learning Style</b>";
         } else if (index == 1 ) {
-                answer = "<h3>Step Learning Style</h3>";
+                answer = "<b>Step Learning Style</b>";
         } else if (index == 2) {
-                answer = "<h3>Talk Learning Style</h3>";
+                answer = "<b>Talk Learning Style</b>";
         } else if (index == 3 ) {
-                answer = "<h3>Research Learning Style</h3>";
+                answer = "<b>Research Learning Style</b>";
         } else {
             document.write("NONE");
         }
