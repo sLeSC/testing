@@ -216,7 +216,7 @@ function compare (num){
 
 
 /* --------------------------------------*/
-/*
+
 function score(data) {
     document.write("<b>Learner Assessment Results:</b>");
     document.write("<hr/>");
@@ -259,8 +259,8 @@ function score(data) {
     document.write(createTotal);
 
      document.write("<br>");
-*/
-    /* ----------------------------------------- 
+    
+    /* ----------------------------------------- */
     document.write("<br>");
     //Step Formula
     document.write("<b>Step Score: </b>");
@@ -298,8 +298,8 @@ function score(data) {
     document.write("Total: ");
     document.write(stepTotal);
     document.write("<br>");
-*/
-    /* ----------------------------------------- 
+
+    /* ----------------------------------------- */
     document.write("<br>");
     //Talk Formula
     document.write("<b>Talk Score: </b>");
@@ -338,8 +338,7 @@ function score(data) {
     document.write(talkTotal);
     document.write("<br>");
 
-*/
-    /* ----------------------------------------- 
+    /* ----------------------------------------- */
     document.write("<br>");
     //Research Formula
     document.write("<b>Research Score: </b>");
@@ -386,7 +385,7 @@ function score(data) {
     learningStyle(learn);
 
 }
-*/
+
 /* -----------------------------*/
 
 // This function will determine the top learning style
