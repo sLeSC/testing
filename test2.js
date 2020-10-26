@@ -395,7 +395,8 @@ function learningStyle (learnArray){
     var largest = 0;
     var index;
     var answer;
-
+    
+    document.write("<h1>Your Learning Style is: </h1>
     //loops through the array to find the biggest element / Position
     for (var i = 0; i < learnArray.length; i++) {
 
